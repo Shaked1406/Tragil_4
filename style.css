@@ -1,0 +1,13 @@
+.green {
+    background-color: greenyellow;
+}
+
+.options {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+input:disabled {
+    background-color: #e0e0e0;
+}
